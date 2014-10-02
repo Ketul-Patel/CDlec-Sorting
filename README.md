@@ -1,0 +1,1 @@
+Notes are in the sortingalgorithmslecture.php file, enjoy!
